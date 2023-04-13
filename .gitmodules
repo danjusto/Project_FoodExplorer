@@ -1,0 +1,6 @@
+[submodule "API_Food"]
+	path = API_Food
+	url = https://github.com/DanJusto/API_Food
+[submodule "food_explorer"]
+	path = food_explorer
+	url = https://github.com/DanJusto/Front_Food
