@@ -46,6 +46,17 @@ IDE:
 </div>
 
 ## 3. 🎬 Visual
+* Home Screen to User (Mobile)  
+![screen](https://github.com/DanJusto/Project_FoodExplorer/blob/main/images/Mobile-Home-User.png)  
+  
+* Product Screen to User (Mobile)  
+![screen](https://github.com/DanJusto/Project_FoodExplorer/blob/main/images/Mobile-Product-User.png)  
+  
+* Product Screen to Admin  
+![screen](https://github.com/DanJusto/Project_FoodExplorer/blob/main/images/Product-Admin.png)  
+  
+* New Product Screen to Admin  
+![screen](https://github.com/DanJusto/Project_FoodExplorer/blob/main/images/New-Admin.png)
 
 ## 4. 🔗 Link
 [Food-Explorer](https://food-explorer29.netlify.app/)
@@ -55,7 +66,9 @@ Acesse o repositório específico do [front-end](https://github.com/DanJusto/Fro
 Acesse o repositório específico do [back-end](https://github.com/DanJusto/API_Food) e veja a documentação e como rodar o projeto.
 
 ## 6. 🧑‍🤝‍🧑 Colaboradores
-Criado durante o curso Explorer da [RocketSeat](https://www.rocketseat.com.br/).
+Projeto criado como desafio final do curso Explorer da [RocketSeat](https://www.rocketseat.com.br/).
 
 ## 7. 👨‍💻 Autor
-[Daniel Justo](https://github.com/DanJusto)
+Criado por Daniel Justo [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmjusto/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanJusto)  
+Obrigado pela visita!
