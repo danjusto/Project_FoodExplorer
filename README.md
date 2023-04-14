@@ -1,14 +1,14 @@
-# Project FoodExplorer ![logo](https://github.com/DanJusto/Front_Food/blob/main/src/assets/polygon.svg)
+# ![logo](https://github.com/DanJusto/Front_Food/blob/main/src/assets/polygon.svg) Project FoodExplorer
 Aplicação de um cardápio digital para um restaurante fictício, conhecido como FoodExplorer.
 
 ## 📜 Sumário
-1. [Detalhes do projeto](https://github.com/DanJusto/Project_FoodExplorer#1)
-2. [Tecnologias usadas](https://github.com/DanJusto/Project_FoodExplorer#2)
-3. [Visual](https://github.com/DanJusto/Project_FoodExplorer#3)
-4. [Link](https://github.com/DanJusto/Project_FoodExplorer#4)
-5. [Para rodar e Documentação](https://github.com/DanJusto/Project_FoodExplorer#5)
-6. [Observações](https://github.com/DanJusto/Project_FoodExplorer#6)
-7. [Autor](https://github.com/DanJusto/Project_FoodExplorer#7)
+1. [Detalhes do projeto](https://github.com/DanJusto/Project_FoodExplorer#1--detalhes-do-projeto)
+2. [Tecnologias usadas](https://github.com/DanJusto/Project_FoodExplorer#2--tecnologias-usadas)
+3. [Visual](https://github.com/DanJusto/Project_FoodExplorer#3--visual)
+4. [Link](https://github.com/DanJusto/Project_FoodExplorer#4--link)
+5. [Para rodar e Documentação](https://github.com/DanJusto/Project_FoodExplorer#5--para-rodar-o-projeto-e-verificar-a-documenta%C3%A7%C3%A3o)
+6. [Colaboradores](https://github.com/DanJusto/Project_FoodExplorer#6--colaboradores)
+7. [Autor](https://github.com/DanJusto/Project_FoodExplorer#7--autor)
 
 ## 1. 🔍 Detalhes do projeto
 O food explorer é um website que consome API própria sendo utilizado pelo admin e usuário. O admin poderá criar, visualizar, editar e apagar um prato a qualquer momento. Cada prato possui uma imagem, um nome, uma categoria, uma breve descrição, os ingredientes e o seu preço. O usuário pode visualizar todos os pratos cadastrados e buscar por pratos específicos, bem como, visualizar informações mais detalhadas sobre cada prato.
@@ -54,7 +54,7 @@ IDE:
 Acesse o repositório específico do [front-end](https://github.com/DanJusto/Front_Food) e veja a documentação e como rodar o projeto.  
 Acesse o repositório específico do [back-end](https://github.com/DanJusto/API_Food) e veja a documentação e como rodar o projeto.
 
-## 6. 👀 Observações
+## 6. 🧑‍🤝‍🧑 Colaboradores
 Criado durante o curso Explorer da [RocketSeat](https://www.rocketseat.com.br/).
 
 ## 7. 👨‍💻 Autor
